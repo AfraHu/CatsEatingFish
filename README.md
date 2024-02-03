@@ -1,6 +1,6 @@
 # Introduction
-- Some personal learning suggestions of using English to learn other languages.
------------
+
+- Some personal learning suggestions of using English to learn other languages.  
   - First, improve your English abilities step by step.
   - [Pronunciation](#English pronunciation)
   - Grammar
@@ -14,7 +14,7 @@
   - Listening and Speaking
 --------------
 
-# English pronunciation
+## English pronunciation
 
 #
 I suggest these two free courses on \"Chinese University MOOC\" platform.  
