@@ -3,7 +3,7 @@
 - *Some personal learning suggestions of using English to learn other languages.*  
   
   - First, improve your English abilities step by step.
-  - [Pronunciation](#EnglishPronunciation)
+  - [Pronunciation](#English Pronunciation)
   - Grammar
   - Vocabulary
   - Listening and Speaking\(The instinctive understanding of English英语语感\)
