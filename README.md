@@ -24,11 +24,12 @@ Learning Japanese with English.  Maybe you don't know, there are many English sp
 - Listening and Speaking
 --------------
 
-#### English pronunciation
+English pronunciation
+
 ####
 I suggest these two free courses on \"Chinese University MOOC\" platform.  
-![English Phonics](/img/EnglishPhonics.jpg)  
-![English Vocabulary and Culture](/img/EnglishVocabularyandCulture.jpg)  
+![English Phonics](/EnglishPhonics.jpg)  
+![English Vocabulary and Culture](/EnglishVocabularyandCulture.jpg)  
 It will takes some time for practicing, but practice makes the significant foundation through your whole Engish learning expecially in listening and speaking.  
 **Phonic basic** is very important! 
 
