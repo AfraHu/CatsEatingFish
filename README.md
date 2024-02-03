@@ -1,12 +1,15 @@
 # Introduction
 
-- *Some personal learning suggestions of using English to learn other languages.* 
+- *Some personal learning suggestions for using English to learn other languages.* 
+- *Please keep a delightful mood when studying; if you feel tired, then just stop and go out to breathe in the fresh air, enjoy the sunshine, or play with pets.*
+- *The sequence is not fixed, and you can adjust it as you like.*
+- *I wrote this note to help myself keep going on.*
    
-  - First, improve your English abilities step by step.
+  - Improve your English abilities step by step.
   - [Pronunciation](#English-Pronunciation)
   - [Grammar](#grammar-guide)
   - [Vocabulary](#vocabulary)
-  - [Listening and Speaking]()
+  - [Listening and Speaking](#Listening-and-Speaking)
 
 - Learning Japanese with English.  
   - Pronunciation
