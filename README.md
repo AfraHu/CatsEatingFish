@@ -43,5 +43,5 @@ There are two free helpful courses on \"Chinese University MOOC\".
 ## Listening-and-Speaking
   - After the preparations above, you got a firm foundation of English but you've been more theoretical than explicit the knowledge.
   - To explicit the knowledge and speak English fluently, you need practice the instinctive understanding of English.
-  - Watching your favorite English movies or TVs, following the actresses or actors to repeat their lines. It is so called in Chinese \"影子跟读\".
+  - Watching your favorite English movies or TVs, following the actresses or actors to repeat their lines. It is so called \"影子跟读\" in Chinese.
   - In my experience, it is better to print the lines down on paper rather then using the apps if you have enough spaces.
