@@ -4,7 +4,7 @@ Some personal learning suggestions of using English to learn other languages.
 ##
 - First, improve your English abilities step by step.
 ### 
-- [Pronunciation] [#English pronunciation]
+- [Pronunciation](####English pronunciation)
 ###
 - Grammar
 ###
@@ -24,6 +24,7 @@ Learning Japanese with English.  Maybe you don't know, there are many English sp
 - Listening and Speaking
 --------------
 
+####
 English pronunciation
 
 ####
