@@ -1,8 +1,11 @@
-# Some personal Language learning suggestions for the people who have a basic English knowledge around A2 level and wants to get improved.
-## Improve it step by step
-### English learning
-#### Pronounciation
-#### Vocabulary
-#### Listening and Speaking
+# Some personal learning suggestions of using English to learn other languages.
+## First, improve your English abilities step by step.
+### Pronounciation
+### Vocabulary
+### Grammar
+### Listening and Speaking\(The instinctive understanding of English英语语感\)
+
+
+---------------------------
 ### Learning other languages with English
 #### Learning Japanese with English
