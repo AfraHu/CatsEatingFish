@@ -5,9 +5,9 @@
   - First, improve your English abilities step by step.
   - [Pronunciation](#English-Pronunciation)
   - [Grammar](#grammar-guide)
-  - Vocabulary
-  - Listening and Speaking\(The instinctive understanding of English英语语感\)
-  
+  - [Vocabulary](#vocabulary)
+  - [Listening and Speaking]()
+
 - Learning Japanese with English.  
   - Pronunciation
   - Grammar
@@ -22,8 +22,8 @@
 
 ## English-Pronunciation
 There are two free helpful courses on \"Chinese University MOOC\".  
-  - **中国地质大学(武汉) \"英语语音\" \***
-  - **暨南大学 \"英语词汇与文化\" \***
+  - 中国地质大学(武汉) \"英语语音\" 
+  - 暨南大学 \"英语词汇与文化\"
 
 ## Grammar-Guide  
   - 十二天突破英语语法 by 武峰
@@ -39,3 +39,9 @@ There are two free helpful courses on \"Chinese University MOOC\".
   - Words list of \"The Oxford 3000\" or \"The Oxford 5000\"
   - [COCA](https://www.eapfoundation.com/vocab/general/bnccoca/)
     - It is a series of lists based on frequency level.
+
+## Listening-and-Speaking
+  - After the preparations above, you got a firm foundation of English but you've been more theoretical than explicit the knowledge.
+  - To explicit the knowledge and speak English fluently, you need practice the instinctive understanding of English.
+  - Watching your favorite English movies or TVs, following the actresses or actors to repeat their lines. It is so called in Chinese \"影子跟读\".
+  - In my experience, it is better to print the lines down on paper rather then using the apps if you have enough spaces.
