@@ -1,28 +1,29 @@
-# Introduction
+# [Introduction](#Introduction)
 
-- *Some personal learning suggestions for using English to learn other languages.* 
-- *Please keep a delightful mood when studying; if you feel tired, just stop and go out to breathe in the fresh air, enjoy the sunshine, or play with pets.*
-- *The sequence is not fixed, you can adjust it as your like.*
-- *I wrote this note to help myself keep going on.*
-   
-- #Improve your English abilities step by step.#
+- Improve your English abilities step by step.
   - [Pronunciation](#English-Pronunciation)
   - [Grammar](#grammar-guide)
   - [Vocabulary](#vocabulary)
   - [Listening and Speaking](#Listening-and-Speaking)
 
-- #Learning Japanese with English.#
+- Learning Japanese with English.
   - [Preface](#preface)
   - Pronunciation
   - Grammar
   - Vocabulary
   - Listening and Speaking
 
-- #Learning French with English. \(on going\)#
+- Learning French with English. \(on going\)
   - Pronunciation
   - Grammar
   - Vocabulary
   - Listening and Speaking
+
+## Introduction
+- *Some personal learning suggestions for using English to learn other languages.* 
+- *Please keep a delightful mood when studying; if you feel tired, just stop and go out to breathe in the fresh air, enjoy the sunshine, or play with pets.*
+- *The sequence is not fixed, you can adjust it as your like.*
+- *I wrote this note to help myself keep going on.*
 
 ## English-Pronunciation
 There are two free helpful courses on \"Chinese University MOOC\".  
