@@ -89,7 +89,7 @@ There are two free helpful courses on \"Chinese University MOOC\".
   - Second, the diction has two classes
     - Dictionary type, casual form
     - Honorific type, polite form
-　- Third, basic four tenses and basic eight voices
+  - Third, basic four tenses and basic eight voices
     - Plain, Negative, Past, Past Negative
     - Potential, Imperative, Causative, Passive, Hypotheses, Volitional, Conditional
     - There is a excel file of basic N5&N4 grammar uploaded to this repository.
