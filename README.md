@@ -61,6 +61,7 @@ There are two free helpful courses on \"Chinese University MOOC\".
   - [Guide 1](http://res.wokanxing.info/jpgramma/index.html)
   - [Guide 2](https://guidetojapanese.org/learn/)
   - Cooperate [大神的日语学习方法](https://zhuanlan.zhihu.com/p/336962369) with these two guides
+  - E-dictionary: [Shirabe Jisho](https://jisho.org/)
 
 ## Japanese-Pronunciation
   - 50 phonetic symbols
@@ -75,17 +76,28 @@ There are two free helpful courses on \"Chinese University MOOC\".
 ## Japanese-Grammar
   - First, all the words are separated into eight categories.
     - [日语词性分类](https://zhuanlan.zhihu.com/p/497314815)
-    - 体言: Nouns, Numbers, Pronouns
-    - 用言: Verbs, Adjectives
-    - 副词: Adverbs
-    - 连体词
-    - 接续词: Conjunction words
-    - 感叹词
-    - 助动词: Auxiliary words
+    - 体言: Nouns, Numbers, Pronouns\(pass\)
+    - 用言: Verbs, Adjectives\(noted below\)
+    - 副词: Adverbs\(pass\)
+    - 连体词\(pass\)
+    - 接续词: Conjunction words\(pass\)
+    - 感叹词\(pass\)
+    - 助动词: Auxiliary words\(noted below\)
       - To constitute the tense and voice.\(句子的时态和语态\)
-    - 助词: Particles
+    - 助词: Particles\(noted below\)
       - To construct the sentence structure.\(句子的结构\)
-  - Second, 
+  - Second, the diction has two classes
+    - Dictionary type, casual form
+    - Honorific type, polite form
+　- Third, basic four tenses and basic eight voices
+    - Plain, Negative, Past, Past Negative
+    - Potential, Imperative, Causative, Passive, Hypotheses, Volitional, Conditional
+    - There is a excel file of basic N5&N4 grammar uploaded to this repository.
+
+
+
+
+
 
 ## Japanese-Vocabulary
 
