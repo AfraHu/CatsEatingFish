@@ -30,7 +30,7 @@
 - *I wrote this note to help myself keep going on.*
 
 ## English-Pronunciation
-There are two free helpful courses on \"Chinese University MOOC\".  
+There are two free helpful courses on [MOOC](https://www.icourse163.org/) 
   - 中国地质大学(武汉) \"英语语音\" 
   - 暨南大学 \"英语词汇与文化\"
 
