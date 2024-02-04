@@ -52,9 +52,10 @@ There are two free helpful courses on \"Chinese University MOOC\".
   - To explicit the knowledge and speak English fluently, you need practice the instinctive understanding of English.
   - Watching your favorite English movies or TVs, following the actresses or actors to repeat their lines. It is so called \"影子跟读\" in Chinese.
   - In my experience, it is better to print the lines down on paper rather then using the apps if you have enough spaces.
-
+-----------------------------------
 ## Preface
   - I wish you have a basic English ability around A2 level.
   - I will show you some wonderful guides written in English, and I will break down those into small parts for better understanding.
   - [Guide 1](http://res.wokanxing.info/jpgramma/index.html)
-  - [Guide 2]()
+  - [Guide 2](https://guidetojapanese.org/learn/)
+  - Cooperate [大神的日语学习方法](https://zhuanlan.zhihu.com/p/336962369) with English language logic
