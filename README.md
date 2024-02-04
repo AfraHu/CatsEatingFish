@@ -1,24 +1,24 @@
 # Introduction
 
 - *Some personal learning suggestions for using English to learn other languages.* 
-- *Please keep a delightful mood when studying; if you feel tired, then just stop and go out to breathe in the fresh air, enjoy the sunshine, or play with pets.*
-- *The sequence is not fixed, and you can adjust it as you like.*
+- *Please keep a delightful mood when studying; if you feel tired, just stop and go out to breathe in the fresh air, enjoy the sunshine, or play with pets.*
+- *The sequence is not fixed, you can adjust it as your like.*
 - *I wrote this note to help myself keep going on.*
    
-  - Improve your English abilities step by step.
+- #Improve your English abilities step by step.#
   - [Pronunciation](#English-Pronunciation)
   - [Grammar](#grammar-guide)
   - [Vocabulary](#vocabulary)
   - [Listening and Speaking](#Listening-and-Speaking)
 
-- Learning Japanese with English.  
+- #Learning Japanese with English.#
   - [Preface](#preface)
   - Pronunciation
   - Grammar
   - Vocabulary
   - Listening and Speaking
 
-- Learning French with English. \(on going\)
+- #Learning French with English. \(on going\)#
   - Pronunciation
   - Grammar
   - Vocabulary
@@ -51,4 +51,7 @@ There are two free helpful courses on \"Chinese University MOOC\".
   - In my experience, it is better to print the lines down on paper rather then using the apps if you have enough spaces.
 
 ## Preface
-  - You must have a basic English ability around A2 level.
+  - I wish you have a basic English ability around A2 level.
+  - I will show you some wonderful guides written in English, and I will break down those into small parts for better understanding.
+  - [Guide 1](http://res.wokanxing.info/jpgramma/index.html)
+  - [Guide 2]()
