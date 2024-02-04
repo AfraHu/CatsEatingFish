@@ -61,7 +61,7 @@ There are two free helpful courses on \"Chinese University MOOC\".
   - [Guide 1](http://res.wokanxing.info/jpgramma/index.html)
   - [Guide 2](https://guidetojapanese.org/learn/)
   - Cooperate [大神的日语学习方法](https://zhuanlan.zhihu.com/p/336962369) with these two guides
-  - E-dictionary: [Jisho](https://jisho.org/)[英和和英辞典](https://ejje.weblio.jp/)
+  - E-dictionary: [Jisho](https://jisho.org/)、[英和和英辞典](https://ejje.weblio.jp/)
 
 ## Japanese-Pronunciation
   - 50 phonetic symbols
