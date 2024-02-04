@@ -50,10 +50,10 @@ There are two free helpful courses on \"Chinese University MOOC\".
     - It is a series of lists based on frequency level.
 
 ## English-Listening-and-Speaking
-  - After the preparations above, you got a firm foundation of English but you've been more theoretical than explicit the knowledge.
-  - To explicit the knowledge and speak English fluently, you need practice the instinctive understanding of English.
-  - Watching your favorite English movies or TVs, following the actresses or actors to repeat their lines. It is so called \"影子跟读\" in Chinese.
-  - In my experience, it is better to print the lines down on paper rather then using the apps if you have enough spaces.
+  - After the preparations above, you've got a firm foundation in English, but you've been more theoretical than explicit in your knowledge.
+  - To speak English fluently, you need to practice your instinctive understanding of the language.
+  - Watching your favorite English movies or TV shows and following the actresses or actors to repeat their lines. It is called \"影子跟读\" in Chinese.
+  - In my experience, it is better to print the lines down on paper rather than using apps if you have enough spaces.
 -----------------------------------
 ## Preface
   - I wish you have a basic English ability around A2 level.
@@ -95,7 +95,7 @@ There are two free helpful courses on \"Chinese University MOOC\".
       - Potential, Imperative, Causative, Passive, Hypotheses, Volitional, Conditional
       - There is an excel file of basic N5 and N4 grammar uploaded to this repository.
   - Fourth, N3, N2, N1 grammar
-    - After the sections above, all the advanced grammar is based on auxiliary words, which means we don't need to do the variation while using them. For mastering senior grammar, just remembering the vocabulary of those auxiliary words is okay.
+    - After the sections above, all the advanced grammar is based on auxiliary words, which means we don't need to do any variation while using them. For mastering senior grammar, just remembering the vocabulary of those auxiliary words is okay.
     - 新日本语能力考试蓝宝书N1toN5文法详解
     - [Bunpro](https://bunpro.jp/grammar_points)
 
