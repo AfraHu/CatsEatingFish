@@ -76,14 +76,14 @@ There are two free helpful courses on [MOOC](https://www.icourse163.org/)
 ## Japanese-Grammar
   - First, all the words are separated into eight categories.
     - [日语词性分类](https://zhuanlan.zhihu.com/p/497314815)
-    - 体言: Nouns, Numbers, Pronouns
-    - 用言: Verbs, Adjectives
-    - 副词: Adverbs, 修饰用言的状态或程度\(あまり、すこし、ちょっと\)
-    - 连词: 独立词, 说明体言的形态或程度\(どんな、こんな、ちさな\)
-    - 接续词: Conjunction words, 又称连词, 连接词与词或句与句\(それから、しかし\)
-    - 感叹词: 独立语, 表达各种情感的词\(ああ、さあ、えっ\)
-    - 助动词: Auxiliary words, 主要附在用言后面, 用来构成句子的时态和语态\(To constitute the tense and voice.\)
-    - 助词: Particles, 用于句子之间表示各种语气, 或者用在语句之间表示结构上的关系\(To construct the sentence structure.\)
+    1. 体言: Nouns, Numbers, Pronouns
+    2. 用言: Verbs, Adjectives
+    3. 副词: Adverbs, 修饰用言的状态或程度\(あまり、すこし、ちょっと\)
+    4. 连词: 独立词, 说明体言的形态或程度\(どんな、こんな、ちさな\)
+    5. 接续词: Conjunction words, 又称连词, 连接词与词或句与句\(それから、しかし\)
+    6. 感叹词: 独立语, 表达各种情感的词\(ああ、さあ、えっ\)
+    7. 助动词: Auxiliary words, 主要附在用言后面, 用来构成句子的时态和语态\(To constitute the tense and voice.\)
+    8. 助词: Particles, 用于句子之间表示各种语气, 或者用在语句之间表示结构上的关系\(To construct the sentence structure.\)
         - 系助詞Linking Particle\(は\)
         - 格助词Case Marking Particle\(が、の\)
           - 并列\(と、や\)
@@ -100,7 +100,7 @@ There are two free helpful courses on [MOOC](https://www.icourse163.org/)
       - Potential, Imperative, Causative, Passive, Hypotheses, Volitional, Conditional
       - There is an excel file of basic N5 and N4 grammar uploaded to this repository.
   - Fourth, N3, N2, N1 grammar
-    - After the sections above, all the advanced grammar is based on auxiliary words, which means we don't need to do any variation while using them. For mastering senior grammar, just remembering the vocabulary of those auxiliary words is okay.
+    - After the sections above, all the advanced grammar is based on auxiliary words, which means we don't need to do any conjugations while using them. For mastering senior grammar, just remembering the vocabulary of those auxiliary words is okay.
     - 新日本语能力考试蓝宝书N1toN5文法详解
     - [Bunpro](https://bunpro.jp/grammar_points)
 
