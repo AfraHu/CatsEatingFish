@@ -82,10 +82,8 @@ There are two free helpful courses on [MOOC](https://www.icourse163.org/)
     - 连词: 独立词, 说明体言的形态或程度\(どんな、こんな、ちさな\)
     - 接续词: Conjunction words, 又称连词, 连接词与词或句与句\(それから、しかし\)
     - 感叹词: 独立语, 表达各种情感的词\(ああ、さあ、えっ\)
-    - 助动词: Auxiliary words, 主要附在用言后面, 用来构成句子的时态和语态
-      - To constitute the tense and voice.
-    - 助词: Particles, 用于句子之间表示各种语气, 或者用在语句之间表示结构上的关系
-      - To construct the sentence structure.
+    - 助动词: Auxiliary words, 主要附在用言后面, 用来构成句子的时态和语态\(To constitute the tense and voice.\)
+    - 助词: Particles, 用于句子之间表示各种语气, 或者用在语句之间表示结构上的关系\(To construct the sentence structure.\)
         - 系助詞Linking Particle\(は\)
         - 格助词Case Marking Particle\(が、の\)
           - 并列\(と、や\)
