@@ -12,6 +12,7 @@
   - [Listening and Speaking](#Listening-and-Speaking)
 
 - Learning Japanese with English.  
+  - [Preface](#preface)
   - Pronunciation
   - Grammar
   - Vocabulary
@@ -48,3 +49,6 @@ There are two free helpful courses on \"Chinese University MOOC\".
   - To explicit the knowledge and speak English fluently, you need practice the instinctive understanding of English.
   - Watching your favorite English movies or TVs, following the actresses or actors to repeat their lines. It is so called \"影子跟读\" in Chinese.
   - In my experience, it is better to print the lines down on paper rather then using the apps if you have enough spaces.
+
+## Preface
+  - You must have a basic English ability around A2 level.
