@@ -93,7 +93,7 @@ There are two free helpful courses on \"Chinese University MOOC\".
     - Basic four tenses and basic seven voices
       - Plain, Negative, Past, Past Negative
       - Potential, Imperative, Causative, Passive, Hypotheses, Volitional, Conditional
-      - There is a excel file of basic N5&N4 grammar uploaded to this repository.
+      - There is an excel file of basic N5 and N4 grammar uploaded to this repository.
   - Fourth, N3, N2, N1 grammar
     - After the sections above, all the advanced grammar is based on auxiliary words, which means we don't need to do the variation while using them. For mastering senior grammar, just remembering the vocabulary of those auxiliary words is okay.
     - 新日本语能力考试蓝宝书N1toN5文法详解
