@@ -88,14 +88,14 @@ There are two free helpful courses on \"Chinese University MOOC\".
       - To construct the sentence structure.
         - 系助詞Linking Particle\(は\)
         - 格助词Case Marking Particle\(が、の\)
-          - 并列助词\(と、や\)
-          - 提示助词\(は、も\)
-          - 接续助词\(から、ながら\)
+          - 并列\(と、や\)
+          - 提示\(は、も\)
+          - 接续\(から、ながら\)
         - 终助词Sentence Ending Particle\(ね、よ\)
         - 副助词Adverbial Particle\(だけ、など、ぐらい\)
   - Second, the diction has two classes
-    - Dictionary type, casual form
-    - Honorific type, polite form
+    - Dictionary type: casual form
+    - Honorific type: polite form
   - Third, N5 and N4 grammar
     - Basic four tenses and basic seven voices
       - Plain, Negative, Past, Past Negative
