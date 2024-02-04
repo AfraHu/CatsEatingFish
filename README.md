@@ -9,10 +9,10 @@
 ------------------
 - Learning Japanese with English.
   - [Preface](#preface)
-  - [Japanese Pronunciation]()
-  - [Japanese Grammar]()
-  - [Japanese Vocabulary]()
-  - [Japanese Listening and Speaking]()
+  - [Japanese Pronunciation](#japanese-pronunciation)
+  - [Japanese Grammar](#japanese-grammar)
+  - [Japanese Vocabulary](#japanese-vocabulary)
+  - [Japanese Listening and Speaking](#japanese-listening-and-speaking)
 --------------------
 - Learning French with English. \(on going\)
   - [French Pronunciation]()
@@ -58,4 +58,16 @@ There are two free helpful courses on \"Chinese University MOOC\".
   - I will show you some wonderful guides written in English, and I will break down those into small parts for better understanding.
   - [Guide 1](http://res.wokanxing.info/jpgramma/index.html)
   - [Guide 2](https://guidetojapanese.org/learn/)
-  - Cooperate [大神的日语学习方法](https://zhuanlan.zhihu.com/p/336962369) with English language logic
+  - Cooperate [大神的日语学习方法](https://zhuanlan.zhihu.com/p/336962369) with these two guides
+
+## Japanese-Pronunciation
+
+
+## Japanese-Grammar
+
+
+## Japanese-Vocabulary
+
+
+## Japanese-Listening-and-Speaking
+
