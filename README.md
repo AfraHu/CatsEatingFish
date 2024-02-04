@@ -23,8 +23,10 @@
 
 ## Introduction
 - *Some personal learning suggestions for using English to learn other languages.* 
+- *This is a happy learning guide instead of a fast mastering guide.*
 - *Please keep a delightful mood when studying; if you feel tired, just stop and go out to breathe in the fresh air, enjoy the sunshine, or play with pets.*
 - *The sequence is not fixed, you can adjust it as your like.*
+- *If you can sing a song very well, please trust yourself to accomplish self-learning languages.*
 - *I wrote this note to help myself keep going on.*
 
 ## English-Pronunciation
@@ -61,10 +63,29 @@ There are two free helpful courses on \"Chinese University MOOC\".
   - Cooperate [大神的日语学习方法](https://zhuanlan.zhihu.com/p/336962369) with these two guides
 
 ## Japanese-Pronunciation
-
+  - 50 phonetic symbols
+  - 発音\(Pronunciation\) is the most important part.
+    - [迷加 ミカ先生の発音授業]()
+    - \(Vowels: \)a, i, u, e, o 
+    - \(Consonants: \)k, s, t, n, h, m, y, r, w
+    - Remember the vowels first.
+    - Try to remember all nine consonants at once.
+    - Recite the five characters row by row.
 
 ## Japanese-Grammar
-
+  - First, all the words are separated into eight categories.
+    - [日语词性分类](https://zhuanlan.zhihu.com/p/497314815)
+    - 体言: Nouns, Numbers, Pronouns
+    - 用言: Verbs, Adjectives
+    - 副词: Adverbs
+    - 连体词
+    - 接续词: Conjunction words
+    - 感叹词
+    - 助动词: Auxiliary words
+      - To constitute the tense and voice.\(句子的时态和语态\)
+    - 助词: Particles
+      - To construct the sentence structure.\(句子的结构\)
+  - Second, 
 
 ## Japanese-Vocabulary
 
