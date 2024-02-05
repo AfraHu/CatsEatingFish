@@ -105,7 +105,7 @@ There are two free helpful courses on [MOOC](https://www.icourse163.org/)
     - [Bunpro](https://bunpro.jp/grammar_points)
 
 ## Japanese-Vocabulary
-  - Some apps for recite the words
+  - Some apps for reciting the words
     - AnkiApp
     - AnkiDroid/Anki
     - Shirabe Jisho\(iPhone\)
